@@ -9,3 +9,5 @@ Technologies used
 MongoDB, Express, React, Redux, NodeJS, CSS, JavaScript, 
 
 Connected to MongoDB server with noSQL
+Main Page
+![image](https://user-images.githubusercontent.com/45918580/106362193-a0800500-6375-11eb-9c4f-aa6edcbef5c8.png)
