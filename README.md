@@ -8,6 +8,11 @@ Created using the MERN stack
 Technologies used
 MongoDB, Express, React, Redux, NodeJS, CSS, JavaScript, 
 
-Connected to MongoDB server with noSQL
+Connected to MongoDB server with noSQL <br/>
 Main Page
 ![image](https://user-images.githubusercontent.com/45918580/106362193-a0800500-6375-11eb-9c4f-aa6edcbef5c8.png)
+Product Page 
+![image](https://user-images.githubusercontent.com/45918580/106362330-4895ce00-6376-11eb-8ccf-57e9df9d134b.png)
+Shipping Page
+![image](https://user-images.githubusercontent.com/45918580/106362282-171d0280-6376-11eb-938b-a018ca3be94e.png)
+
